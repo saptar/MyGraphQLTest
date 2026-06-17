@@ -12,7 +12,7 @@ permissions:
 
 env:
   AZURE_WEBAPP_NAME: test-graphql-deployment
-  AZURE_RESOURCE_GROUP: rg-test
+  AZURE_RESOURCE_GROUP: rg-test-deployment
   AZURE_WEBAPP_SLOT: staging
   DOTNET_VERSION: '8.0.x'
 
